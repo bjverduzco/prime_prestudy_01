@@ -1,0 +1,10 @@
+h1 {
+  color : blue;
+  text-align : center;
+  text-decoration : underline;
+  font-family: helvetica, "Times New Roman", sans-serif;
+  font-size: 40;
+}
+body {
+  background-color : lightgreen;
+}
